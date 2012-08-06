@@ -1,1 +1,3 @@
-This is a test GITHUB.
+GITDIR
+
+GIT Local Repository
